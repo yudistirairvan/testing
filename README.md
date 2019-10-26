@@ -1,2 +1,4 @@
 # testing
-a simpel testing
+a simpel testing for learning using jasmine
+
+
